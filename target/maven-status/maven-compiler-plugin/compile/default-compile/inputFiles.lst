@@ -1,9 +1,0 @@
-/home/amit/eclipse/SpringRabbitMQIntegrationExample/src/main/java/com/companyName/SpringRabbitMQIntegrationExample/util/Events.java
-/home/amit/eclipse/SpringRabbitMQIntegrationExample/src/main/java/com/companyName/SpringRabbitMQIntegrationExample/util/RabbitMqMessageListener.java
-/home/amit/eclipse/SpringRabbitMQIntegrationExample/src/main/java/com/companyName/SpringRabbitMQIntegrationExample/util/Constants.java
-/home/amit/eclipse/SpringRabbitMQIntegrationExample/src/main/java/com/companyName/SpringRabbitMQIntegrationExample/config/AppConfig.java
-/home/amit/eclipse/SpringRabbitMQIntegrationExample/src/main/java/com/companyName/SpringRabbitMQIntegrationExample/util/EventHandler.java
-/home/amit/eclipse/SpringRabbitMQIntegrationExample/src/main/java/com/companyName/SpringRabbitMQIntegrationExample/config/AppInitializer.java
-/home/amit/eclipse/SpringRabbitMQIntegrationExample/src/main/java/com/companyName/SpringRabbitMQIntegrationExample/config/RabbitMqConfiguration.java
-/home/amit/eclipse/SpringRabbitMQIntegrationExample/src/main/java/com/companyName/SpringRabbitMQIntegrationExample/controller/UserController.java
-/home/amit/eclipse/SpringRabbitMQIntegrationExample/src/main/java/com/companyName/SpringRabbitMQIntegrationExample/service/EventPublisherService.java
